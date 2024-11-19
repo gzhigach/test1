@@ -6,7 +6,7 @@ class Dialog
         Console.Title = "Давайте познакомимся";
         Console.Write("Как вас зовут? ");
         string name = Console.ReadLine();
-        string txt = "Очень приятно, " + name + "!";
+        string txt = "Очень приятно, " + name + "!!!!";
         Console.WriteLine(txt);
     }
 }
